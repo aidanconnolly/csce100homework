@@ -1,7 +1,7 @@
 # CSCE 100 Homework
 *Fall 2016 — Matt Waite, instructor*
 
-This repository holds different assignments for CSCE 100 — Intro to Informatics. 
+This repository holds different assignments for CSCE 100: Intro to Informatics. 
 
 From the syllabus:
 > If you Google it, Informatics is the science of information systems. But what doesthat even mean? It means a lot. The field of Informatics ranges across disciplines,covering a wide array of ideas from human-computer interactions to informationprocessing to algorithms that are a part of our everyday lives. This class is anintroduction to a number of areas touched by informatics: Problem solving,prototyping, data processing, analysis, programming, algorithms andcommunicating what you've found.
@@ -11,7 +11,7 @@ Below are some assignments including the instructions and my work.
 * [Mad Libs](#madlibs)
 * [Rock, Paper, Scissors](#rps)
 * [Chutes and Ladders](#chutes)
-* [Weather Bot](#wardrobebot)
+* [Wardrobe Bot](#wardrobebot)
 
 <a name="madlibs"></a>
 ## Mad Libs 
